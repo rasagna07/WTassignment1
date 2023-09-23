@@ -1,0 +1,63 @@
+#h4use{
+  
+  margin-top: -15px;
+  margin-left: 630px;
+}
+#h5use{
+    margin-left: 600px;
+    margin-top: -10px;
+}
+#h2use{
+    margin-left: 500px;
+    font-size:larger;
+    
+}
+#timeTableHeading{
+    margin-bottom: -20px;
+    margin-left: 500px;
+}
+#h5use{
+    margin-left: 400px;
+    font-family:normal;
+    font-weight: 200;
+    font-size: medium;
+    margin-bottom: -15px;
+    margin-top: -20px;
+
+}
+.tableBorder{
+   
+    width: 70%;
+  
+    margin-left: 280px;
+    text-align: center;
+
+}
+#III{
+    margin-bottom: -40px;
+    margin-right: 870px;
+}
+#cs3{
+    padding-right: 135px;
+    margin-bottom: -1px;
+}
+table,th,td{
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+    padding: 5px;
+
+}
+#room{
+    margin-bottom: -40px;
+    padding-left: 560px;
+}
+
+.table2{
+    margin-left:400px;
+  width: 50%;
+  text-align: left;
+}
+th{
+    padding: 10px;
+
+}
